@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Navbar from "../Navbar";
 import Header from "../Header";
 import Wrapper from "../Wrapper";
-import Cards from "../Cards";
+import IconCard from "../IconCard";
 import data from "../../data.json";
 
 
@@ -76,15 +76,19 @@ class Game extends Component {
           <Navbar score={this.state.score} topScore={this.state.topScore} />
           <Header />
           <Wrapper>
+            
             {this.state.data.map(item => (
-              <Cards
+              
+              <IconCard
                 key={item.id}
                 id={item.id}
                 shake={!this.state.score && this.state.topScore}
                 handleClick={this.handleItemClick}
                 image={item.image}
               />
+              
             ))}
+            
           </Wrapper>
         </div>
       );

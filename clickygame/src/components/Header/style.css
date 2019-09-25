@@ -1,16 +1,27 @@
 .header {
-    background-color: #2C323C;
-    background-repeat: repeat;
-    color: white;
+    background-color: Black;
+    background-image: url("/assets/images/marvel-bgr.png");
+    /* opacity: 0.6; */
+    background-repeat: no-repeat;
     min-height: 400px;
     padding: 180px 20px; 
     padding-bottom: 140px;
+    color: antiquewhite;
+    text-shadow: 2cm;
     text-align: center;
   }
   
   .header h1 {
+    
     margin: 0;
     margin-bottom: 30px;
-    font-size: 4rem;
+    font-size: 2 rem;
+    text-align: center;
+    padding-left: 20px;
+  }
+
+  .header h2 {
+    /* margin-top: 100px; */
+    padding-top: 110px;
   }
   
