@@ -14,6 +14,7 @@ var marvel = {
       }
 
     });
+    console.log(url);
   }
 
 };

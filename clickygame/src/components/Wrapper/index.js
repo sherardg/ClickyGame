@@ -1,10 +1,10 @@
 import React from "react";
+import "./style.css";
 
 function Wrapper (props) {
-    return
-    <div className="wrapper">
+    return <main className="wrapper">
         {props.children}
-    </div>
+    </main>;
 }
 
 export default Wrapper;
