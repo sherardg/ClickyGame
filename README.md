@@ -11,7 +11,7 @@ This is a fun game of memmory created with React.  This app breaks up the UI int
 
 Test you memory skills by clicking on Marvel characters!
 
-This game is deployed using Heroku -  [https://whispering-fjord-83720.herokuapp.com/]
+This game is deployed using Heroku - https://whispering-fjord-83720.herokuapp.com/
 
 ![Marvel Clicky Game Screenshot](https://github.com/sherardg/ClickyGame/blob/master/public/assets/images/marvelGame-portfolio.png)
 
