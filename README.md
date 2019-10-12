@@ -1,6 +1,6 @@
 # ClickyGame
 
-This is a fun game of memmory created with React.  This assignment required us to break up the application's UI into components, manage component state, and respond to user events.
+This is a fun game of memmory created with React.  This app breaks up the UI into components, manages component state, and responds to user events.
 
 # How to play.
 
@@ -9,5 +9,9 @@ This is a fun game of memmory created with React.  This assignment required us t
 * Do not click an image more than once or you lose.  
 * The current score and top score are listed at the top.
 
-Enjoy the marvel universe while you test your memory!
+Test you memory skills by clicking on Marvel characters!
+
+This game is deployed using Heroku -  [https://whispering-fjord-83720.herokuapp.com/]
+
+![Marvel Clicky Game Screenshot](https://github.com/sherardg/ClickyGame/blob/master/public/assets/images/marvelGame-portfolio.png)
 
