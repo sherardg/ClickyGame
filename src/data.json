@@ -57,5 +57,26 @@
     "id": "12",
     "image": "/assets/images/wolverine.jpeg",
     "clicked": false
+  },
+  {
+    "id": "13",
+    "image": "assets/images/blackpanther.jpg",
+    "clicked": false
+  },
+  {
+    "id": "14",
+    "image": "assets/images/falcon.jpg",
+    "clicked": false
+  },
+  {
+    "id": "15",
+    "image": "assets/images/spiderman.jpg",
+    "clicked": false
+  },
+  {
+    "id": "16",
+   "image": "assets/images/captainMarvel.jpg",
+   "clicked": false
   }
+  
 ]
